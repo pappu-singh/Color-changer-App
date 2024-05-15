@@ -1,1 +1,1 @@
-This is an Color Changer App Game and using javaScript.
+This is an Color Changer App Game and using HTML, CSS, and javaScript.
